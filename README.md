@@ -2,7 +2,7 @@
 **A theme for Sublime Text based on Dracula Theme and Omni Theme.**
 ## 📦 How to Download and Install
 
-1. First, you need to obtain the theme files. You have two options:
+1. **First, you need to obtain the theme files. You have two options:**
    - **Option 1**: Visit the ForeverTheme repository on GitHub (insert the repository link here) and click on the "Code" button, then select "Download ZIP". This will download a ZIP file containing the theme files.
    - **Option 2**: If you are familiar with Git, you can clone the repository directly to your system using the following command:
      ```bash
@@ -11,7 +11,7 @@
 
 ### Installation in Sublime Text
 
-2. Once you have the theme files on your system, follow these steps to install it in Sublime Text:
+2. **Once you have the theme files on your system, follow these steps to install it in Sublime Text:**
 
    1. Open Sublime Text.
    2. From the top menu, select "Preferences" and then choose "Browse Packages". This will open the folder where Sublime Text packages are stored.

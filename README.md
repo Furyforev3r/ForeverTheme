@@ -6,7 +6,7 @@
    - **Option 1**: Visit the ForeverTheme repository on GitHub (insert the repository link here) and click on the "Code" button, then select "Download ZIP". This will download a ZIP file containing the theme files.
    - **Option 2**: If you are familiar with Git, you can clone the repository directly to your system using the following command:
      ```bash
-     git clone repository_link.git
+     git clone https://github.com/Furyforev3r/ForeverTheme.git
      ```
 
 ### Installation in Sublime Text
